@@ -1,1 +1,25 @@
-
+{
+  "name": "Homebridge-hhtp-Lightbar",
+  "version": "0.0.1",
+  "description": "Homebridge plugin to control a web-based Neopixel device.",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "JT",
+  },
+  "contributors": [
+    {
+      "name": "JT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jnovack/homebridge-Lightbar.git"
+  }
+}
